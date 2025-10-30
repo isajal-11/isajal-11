@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isajal-11/isajal-11/main/banner.gif" alt="Sajal Banner" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDViY3NxeHl0cTAwemtraTYyZnlpY2ViNWN0dWszcndqenM1dHg0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Banner" width="100%">
 </p>
 
 # Hi, I'm Sajal
@@ -11,16 +11,17 @@ Always curious, always building — whether it’s writing a simple C program or
 
 ---
 
-### 🧠 Tech Stack:
+### ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,git" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/C-0A74DA?style=for-the-badge&logo=c&logoColor=white&labelColor=1C1C1C&color=0A74DA&link=" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white&labelColor=1C1C1C&color=FF5722" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=1C1C1C&color=2965F1" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1C1C1C&color=F0DB4F" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white&labelColor=1C1C1C&color=F1502F" alt="Git"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sajal-monga-40a2742b4//" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Always+learning+.+Building+.+Creating;Turning+ideas+into+code;Exploring+the+art+of+development" alt="Typing Animation">
 </p>
