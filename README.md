@@ -9,7 +9,7 @@
 B.Tech CSE sophomore specializing in cloud computing. Diving into backend
 systems, distributed architecture, and building products with real-world traction.
 
-`Sophomore · Year 2` &nbsp; `Cloud · Backend` &nbsp; `Japan & Singapore`
+`Sophomore · Year 2` &nbsp; `Cloud · Backend` &nbsp; 
 
 ---
 
@@ -49,7 +49,5 @@ systems, distributed architecture, and building products with real-world tractio
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=isajal-11&color=1D9E75&style=flat)
-
-*always in development, never deprecated*
 
 📬 sajal1105@gmail.com &nbsp;·&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajal-monga-40a2742b4)
