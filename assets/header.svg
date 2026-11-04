@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#101010"/>
+    <stop offset="1" stop-color="#252525"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#555" stroke-opacity=".20" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="260" rx="22" fill="url(#g)"/>
+<rect width="1200" height="260" rx="22" fill="url(#grid)"/>
+<path d="M760 260C860 160 900 80 1200 24" fill="none" stroke="#777" stroke-opacity=".5" stroke-width="1.5"/>
+<path d="M830 260C930 160 980 105 1200 70" fill="none" stroke="#aaa" stroke-opacity=".28" stroke-width="1"/>
+<circle cx="1020" cy="75" r="2" fill="#ddd"/>
+<circle cx="1080" cy="125" r="2" fill="#999"/>
+<text x="62" y="104" fill="#f3f3f3" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1">SAJAL MONGA</text>
+<text x="66" y="151" fill="#bdbdbd" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="3">COMPUTER SCIENCE  /  DEVELOPER</text>
+<path d="M66 184H260" stroke="#aaa" stroke-width="2"/>
+<text x="66" y="218" fill="#8f8f8f" font-family="Arial, Helvetica, sans-serif" font-size="14">Building with curiosity. Learning by doing.</text>
+</svg>
